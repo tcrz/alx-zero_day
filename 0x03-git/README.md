@@ -1,1 +1,2 @@
-*more Git stuff*
+**more Git stuff**
+add -> commit -> push
